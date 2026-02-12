@@ -24,6 +24,8 @@
 
 ## Deskripsi Tugas
 
+Ukuran payload LxWxH => 25cm x 25cm x 3cm
+
 ### Tugas 1
 
 Label data yang ada di folder videos dan kumpulkan hasil label pada kolom link yang tertera diatas.
